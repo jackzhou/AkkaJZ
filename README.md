@@ -1,4 +1,4 @@
-activator-akka-scala-seed
+Learning Akka project
 =========================
 
 LARNINGAKKAJD
