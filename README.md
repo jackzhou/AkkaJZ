@@ -1,4 +1,4 @@
-activator-akka-scala-seed
+Learning Akka project
 =========================
 
-A minimal seed template for an Akka with Scala build 
+LARNINGAKKAJD
